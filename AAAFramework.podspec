@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name          	=  "AAAFramework"
-s.version      	=  "0.0.1"
+s.version      	=  "0.0.2"
 s.summary     =  "A framework that provides a variety of Utility methods"
 s.homepage   = "https://github.com/saurabhliita007/AAAFrameworkRepository.git"
 s.license      	 =  { :type => "MIT", :file => "LICENSE" }
