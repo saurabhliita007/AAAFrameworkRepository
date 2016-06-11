@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AAAFramework"
-  s.version      = "0.0.8"
+  s.version      = "1.0.0"
   s.summary      = "A short demo of AAAFramework."
   s.description  = "Pod demo"
 
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "5.0"
   s.ios.deployment_target = "5.0"
  
-  s.source       = { :git => "https://github.com/saurabhliita007/AAAFrameworkRepository.git", :tag => "0.0.8" }
+  s.source       = { :git => "https://github.com/saurabhliita007/AAAFrameworkRepository.git", :tag => "v1.0.1" }
 
   s.source_files  = "*.framework"
   s.requires_arc = true
