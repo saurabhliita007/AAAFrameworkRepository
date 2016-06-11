@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
  
   s.source       = { :git => "https://github.com/saurabhliita007/AAAFrameworkRepository.git", :tag => "0.0.8" }
 
-  s.source_files  = "AAAFramework.framework"
+  s.source_files  = "*.framework"
   s.requires_arc = true
 
 end
